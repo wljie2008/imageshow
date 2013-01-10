@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/548/trunk/src/com/googlecode/android/wifi/tether
+END
+TetherApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/547/trunk/src/com/googlecode/android/wifi/tether/TetherApplication.java
+END
+AccessControlActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/529/trunk/src/com/googlecode/android/wifi/tether/AccessControlActivity.java
+END
+TetherWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/529/trunk/src/com/googlecode/android/wifi/tether/TetherWidget.java
+END
+TetherServiceReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/529/trunk/src/com/googlecode/android/wifi/tether/TetherServiceReceiver.java
+END
+MainActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/529/trunk/src/com/googlecode/android/wifi/tether/MainActivity.java
+END
+WifiStateChangeReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/529/trunk/src/com/googlecode/android/wifi/tether/WifiStateChangeReceiver.java
+END
+TetherService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/544/trunk/src/com/googlecode/android/wifi/tether/TetherService.java
+END
+SetupActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/544/trunk/src/com/googlecode/android/wifi/tether/SetupActivity.java
+END
+LogActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/544/trunk/src/com/googlecode/android/wifi/tether/LogActivity.java
+END

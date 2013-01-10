@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/529/trunk/res/drawable
+END
+seclow.png
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/529/trunk/res/drawable/seclow.png
+END
+start.png
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/529/trunk/res/drawable/start.png
+END
+tether_start_button.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/529/trunk/res/drawable/tether_start_button.xml
+END
+start_notification.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/529/trunk/res/drawable/start_notification.png
+END
+stop.png
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/529/trunk/res/drawable/stop.png
+END
+background.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/529/trunk/res/drawable/background.9.png
+END
+tether_stop_button.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/529/trunk/res/drawable/tether_stop_button.xml
+END
+battery.png
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/529/trunk/res/drawable/battery.png
+END
+sechigh.png
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/529/trunk/res/drawable/sechigh.png
+END
+appwidget_button.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/529/trunk/res/drawable/appwidget_button.xml
+END
+stop_notification.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/529/trunk/res/drawable/stop_notification.png
+END
+secmedium.png
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/529/trunk/res/drawable/secmedium.png
+END

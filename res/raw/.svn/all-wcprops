@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/544/trunk/res/raw
+END
+rfkill
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/529/trunk/res/raw/rfkill
+END
+hostapd_conf_mini
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/529/trunk/res/raw/hostapd_conf_mini
+END
+iptables
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/529/trunk/res/raw/iptables
+END
+hostapd_conf_tiap
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/529/trunk/res/raw/hostapd_conf_tiap
+END
+hostapd_conf_droi
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/529/trunk/res/raw/hostapd_conf_droi
+END
+ifconfig
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/529/trunk/res/raw/ifconfig
+END
+iwconfig
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/529/trunk/res/raw/iwconfig
+END
+dnsmasq
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/529/trunk/res/raw/dnsmasq
+END
+fixpersist_sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/529/trunk/res/raw/fixpersist_sh
+END
+tether_edify
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/544/trunk/res/raw/tether_edify
+END
+tether
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/529/trunk/res/raw/tether
+END
+tiwlan_ini
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/529/trunk/res/raw/tiwlan_ini
+END
+wpa_supplicant_conf
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/529/trunk/res/raw/wpa_supplicant_conf
+END
